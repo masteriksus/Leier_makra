@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE library:library PUBLIC "-//OpenOffice.org//DTD OfficeDocument 1.0//EN" "library.dtd">
+<library:library xmlns:library="http://openoffice.org/2000/library" library:name="LEIER_ZestAllplan" library:readonly="false" library:passwordprotected="true">
+ <library:element library:name="_ProceduryCzastkowe"/>
+ <library:element library:name="_Funkcje"/>
+ <library:element library:name="ZestawieniaAllplan"/>
+ <library:element library:name="About"/>
+ <library:element library:name="DlaMata"/>
+ <library:element library:name="NoweZestawienia"/>
+ <library:element library:name="ImportujCSV"/>
+ <library:element library:name="NumerZlecenia"/>
+ <library:element library:name="AktualizujCennik2023"/>
+ <library:element library:name="AktualizujCennikStare"/>
+ <library:element library:name="__MENU"/>
+ <library:element library:name="PodsumowanieKalkStare"/>
+ <library:element library:name="PodsumowanieKalk2023"/>
+</library:library>
